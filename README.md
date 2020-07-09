@@ -11,4 +11,4 @@ Hello, I'm Chris. I'm an assistant professor of public administration at [Northe
 ## Get in touch
 * Twitter: [https://www.twitter.com/cbgoodman](https://www.twitter.com/cbgoodman)
 * Personal site: [https://www.cgoodman.com](https://www.cgoodman.com)
-* Official site: [https://www.niu.edu/clas/public-administration/about/faculty-staff/goodman.shtml](https://www.niu.edu/clas/public-administration/about/faculty-staff/goodman.shtml)
+* University site: [https://www.niu.edu/clas/public-administration/about/faculty-staff/goodman.shtml](https://www.niu.edu/clas/public-administration/about/faculty-staff/goodman.shtml)
