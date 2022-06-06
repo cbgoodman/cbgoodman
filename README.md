@@ -1,6 +1,6 @@
 # Chris Goodman - @cbgoodman
 
-Hello, I'm Chris. I'm an assistant professor of public administration at [Northern Illinois University](https://www.niu.edu). I research local governments and teach MPA students about public finance.
+Hello, I'm Chris. I'm an associate professor of public administration at [Northern Illinois University](https://www.niu.edu). I research local governments and teach MPA students about public finance.
 
 ## Projects I'm working on
 * All things special districts
